@@ -10,5 +10,4 @@ func main() {
 	}()
 	fmt.Println("11111111111")
 	panic("出现panic")
-	fmt.Println("22222222222")
 }
